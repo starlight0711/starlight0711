@@ -2,6 +2,9 @@
 ---
 Welcome to my profile! I’m currently learning Web Development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasmineluk/)!
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starlight0711&theme=transparent)
+
 <!--
 **starlight0711/starlight0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
