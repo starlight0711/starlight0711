@@ -1,5 +1,7 @@
 ### Hi, I'm Yasmine 👋
-- 🌱 I’m currently learning Web Development
+---
+Welcome to my profile! I’m currently learning Web Development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasmineluk/)!
+
 <!--
 **starlight0711/starlight0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
