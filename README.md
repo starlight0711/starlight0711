@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Yasmine 👋
+- 🌱 I’m currently learning Web Development
 <!--
 **starlight0711/starlight0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
