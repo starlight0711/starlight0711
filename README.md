@@ -15,7 +15,7 @@ Welcome to my [profile](https://yasmineluk.netlify.app/)! I’m currently learni
 
 [Profile Website](https://yasmineluk.netlify.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starlight0711&repo=starlight0711.github.io)](https://github.com/starlight0711/yasmineluk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starlight0711&repo=yasmineluk)](https://github.com/starlight0711/yasmineluk)
 
 
 [Gallery Website](https://www.starlight.land/gallery/)
