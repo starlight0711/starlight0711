@@ -1,6 +1,6 @@
 ### Hi, I'm Yasmine 👋
 ---
-Welcome to my profile! I’m currently learning Web Development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasmineluk/)!
+Welcome to my [profile](https://yasmineluk.netlify.app/)! I’m currently learning Web Development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasmineluk/)!
 
 ### 💻 SKILLS
 ---
@@ -12,6 +12,9 @@ Welcome to my profile! I’m currently learning Web Development. Thanks for visi
 
 ### 💻 PROJECT
 ---
+
+[Profile Website](https://yasmineluk.netlify.app/)
+
 [Gallery Website](https://www.starlight.land/gallery/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starlight0711&repo=starlight0711.github.io)](https://github.com/starlight0711/starlight0711.github.io)
